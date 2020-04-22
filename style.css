@@ -84,3 +84,17 @@ button {
   
   margin-bottom: 20px;
 }
+.about {
+  margin-top: 20px;
+  text-align: center;
+}
+
+.about a {
+  color: black;
+  font-family: 'Open Sans', sans-serif;
+  text-decoration: none;
+  font-weight: bold;
+}
+.about a:hover {
+  color: green;
+}
